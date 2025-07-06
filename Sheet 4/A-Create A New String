@@ -1,0 +1,13 @@
+A-Create A New String
+Course Code - CCE-2310
+Course Title - Competitive Programming Sessional
+Course Teacher - Mirza Raquib
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string s,t;
+    cin>>s>>t;
+    cout<<s.size()<<" "<<t.size()<<endl;
+    cout<<s<<" "<<t<<endl;
+}
